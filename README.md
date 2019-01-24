@@ -1,12 +1,8 @@
 ### OVERVIEW
-* Built web applications within a broad spectrum of industries from retail to health sector on Squarespace and Shopify's platform.
+* Built web applications within a broad spectrum of industries from retail to healthcare sector.
 * E-commerce projects: Fundraising campaign for a Local Cause, Jewelry, Vintage Clothing, Cosmetics.
 * Progressive web-app projects: Food & Healthy Eating Blog, Home Improvement, Microhospitals Network.
-
-### PLATFOMRS
-* Squarespace
-* Shopify  
-
+ 
 ### SAMPLE PROJECTS' SCREENSHOTS
 
 ![cheatdayeverydaycom-resized](https://user-images.githubusercontent.com/5770541/50505987-83650380-0a44-11e9-8be9-e5a6f3f015a8.png)
